@@ -1,0 +1,8 @@
+Package: wireless-regdb
+Version: 9999.0001
+Depends: libc
+Section: firmware
+Maintainer: Marcos Del Sol Vives <marcos@orca.pet>
+Architecture: all
+Installed-Size: 768
+Description:  Fake regulatory database
